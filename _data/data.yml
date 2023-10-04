@@ -28,7 +28,7 @@ sidebar:
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://docs.google.com/document/d/1GiVz55kIpSf9yuBz6neUmTXw7lq5vBz3/edit?usp=drive_link&ouid=116785324747466291956&rtpof=true&sd=true
 
     languages:
       title: Languages
@@ -238,6 +238,10 @@ skills:
 
       - name: Linux Command Line
         level: 60%
+
+      - name: PC Hardware
+        level: 90%
+
 
 # footer: >
 #      Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
