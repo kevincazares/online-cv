@@ -57,11 +57,11 @@ sidebar:
 career-profile:
     title: Highlights of Qualifictaions
     summary: |
-     Customer-focused professional with a passion for ensuring satisfaction through effective communication and experience in addressing customer inquiries and resolving concerns
-     Proven ability to handle difficult situations, de-escalate complaints, and provide timely, empathetic solutions resulting in increased customer loyalty and reduced escalations.
-     Highly skilled in multitasking and time management in a fast-paced environment, maintaining attention to detail for efficient issue resolution.
-     Committed to team goals, fostering a positive and collaborative work environment through strong teamwork and adaptability.
-     Proficient in software for managing and documenting customer interactions, ensuring data accuracy, and quickly adapting to new technologies to provide effective support.
+     - Customer-focused professional with a passion for ensuring satisfaction through effective communication and experience in addressing customer inquiries and resolving concerns.
+     - Proven ability to handle difficult situations, de-escalate complaints, and provide timely, empathetic solutions resulting in increased customer loyalty and reduced escalations.
+     - Highly skilled in multitasking and time management in a fast-paced environment, maintaining attention to detail for efficient issue resolution.
+     - Committed to team goals, fostering a positive and collaborative work environment through strong teamwork and adaptability.
+     - Proficient in software for managing and documenting customer interactions, ensuring data accuracy, and quickly adapting to new technologies to provide effective support.
 education:
     title: Education
     info:
@@ -95,49 +95,49 @@ experiences:
         time: 2019 - 2022
         company: Real Canadian Superstore, Coquitlam, BC
         details: |
-         Managed daily deli operations, including ordering, stocking, pricing, and merchandising.
-         Assisted customers in selecting deli items from the case or menu board.
-         Controlled inventory to ensure product availability and prevent shortages.
-         Implemented merchandising strategies for attractive displays and balanced profitability.
-         Maintained high food safety and hygiene standards.
-         Fostered a positive work environment, provided product knowledge to the team, and enforced quality control measures for deli products.
-         Actively welcomed and utilized customer feedback for continuous improvement.
+         - Managed daily deli operations, including ordering, stocking, pricing, and merchandising.
+         - Assisted customers in selecting deli items from the case or menu board.
+         - Controlled inventory to ensure product availability and prevent shortages.
+         - Implemented merchandising strategies for attractive displays and balanced profitability.
+         - Maintained high food safety and hygiene standards.
+         - Fostered a positive work environment, provided product knowledge to the team, and enforced quality control measures for deli products.
+         - Actively welcomed and utilized customer feedback for continuous improvement.
 
       - role: Vendor Assistant
         time: 2017 - 2018
         company: Disney On Ice, Ottawa, ON
         details: |
-           Assisted vendors with setting up booths, displays and signage at events.
-           Performed inventory management tasks such as restocking shelves, tracking stock levels.
-           Set up and displayed sample merchandise at festivals and community events to boost sales.
+           - Assisted vendors with setting up booths, displays and signage at events.
+           - Performed inventory management tasks such as restocking shelves, tracking stock levels.
+           - Set up and displayed sample merchandise at festivals and community events to boost sales.
       - role: Building Cleaner
         time: 2016 - 2017
         company: Homestead Land Holdings LTD., Ottawa, ON 
         details: |
-           Cleaned windows, mirrors and other glass surfaces using squeegees and sponges. Performed minor repairs such as replacing light bulbs or fuses.
-           Gathered debris from exterior grounds for disposal in designated area. 
-           Reported any maintenance issues or safety hazards to supervisor immediately. 
-           Disinfected doorknobs, telephones, computers and other equipment regularly. Swept sidewalks surrounding building entrance daily.
-           Addressed minor maintenance issues, reporting more serious conditions to supervisors for attention from maintenance technicians.
+           - Cleaned windows, mirrors and other glass surfaces using squeegees and sponges. Performed minor repairs such as replacing light bulbs or fuses.
+           - Gathered debris from exterior grounds for disposal in designated area. 
+           - Reported any maintenance issues or safety hazards to supervisor immediately. 
+           - Disinfected doorknobs, telephones, computers and other equipment regularly. Swept sidewalks surrounding building entrance daily.
+           - Addressed minor maintenance issues, reporting more serious conditions to supervisors for attention from maintenance technicians.
 
 certifications:
       title: Certifications
       list:
         - name: PC Hardware Professional
-          start: 2029
+          start: 2019
           end: 2020
           organization: MSI
           credentialurl: www.msicertified.com
           credentialname: MSI
           details: |
-            Identifying, using and connecting hardware components and devices, including the broad knowledge about different devices that is now necessary to support the remote workforce.
-            Install and support Windows OS including command line and client support, system configuration imaging and troubleshooting for Mac OS, Chrome OS, Android and Linux OS.
-            Troubleshoot PC and mobile device issues including common OS, malware and security issues.
-            Explain types of networks and connections including TCP/IP, WIFI and SOHO.
-            Troubleshoot real-world device and network issues quickly and efficiently.
-            Identify and protect against security vulnerabilities for devices and their network connections.
-            Install and configure laptops and other mobile devices and support applications to ensure connectivity for end users.
-            Praesent venenatis erat non augue suscipit consectetur.
+           - Identifying, using and connecting hardware components and devices, including the broad knowledge about different devices that is now necessary to support the remote workforce.
+           - Install and support Windows OS including command line and client support, system configuration imaging and troubleshooting for Mac OS, Chrome OS, Android and Linux OS.
+           - Troubleshoot PC and mobile device issues including common OS, malware and security issues.
+           - Explain types of networks and connections including TCP/IP, WIFI and SOHO.
+           - Troubleshoot real-world device and network issues quickly and efficiently.
+           - Identify and protect against security vulnerabilities for devices and their network connections.
+           - Install and configure laptops and other mobile devices and support applications to ensure connectivity for end users.
+            
 
             
             
@@ -149,9 +149,9 @@ certifications:
           credentialurl: www.github.com
           credentialname: Github
           details: |
-            Describe version control and its place in social and collaborative coding and in DevOps. 
-            Create GitHub repositories and branches, and perform pull requests (PRs) and merge operations, to collaborate on a team project.
-            Explain basic Git concepts such as repositories and branches used for distributed version control and social coding.
+           - Describe version control and its place in social and collaborative coding and in DevOps. 
+           - Create GitHub repositories and branches, and perform pull requests (PRs) and merge operations, to collaborate on a team project.
+           - Explain basic Git concepts such as repositories and branches used for distributed version control and social coding.
 
 projects:
     title: Projects
